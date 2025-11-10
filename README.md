@@ -56,6 +56,19 @@ This project implements automated testing for the SauceDemo application (https:/
 - Maven 3.6+
 - Firefox and Edge browsers
 
+## 🚨 Important Setup Instructions
+
+### Browser Drivers Required:
+
+#### For Microsoft Edge:
+1. Download **Microsoft Edge Driver** from:
+   https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2. Select version matching your Edge browser
+3. Place `msedgedriver.exe` in the **project root folder**
+
+#### For Firefox:
+- **No additional setup required** - uses built-in Selenium manager
+
 ### Running Tests
 ```bash
 # Clone the repository
