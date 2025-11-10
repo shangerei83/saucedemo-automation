@@ -45,9 +45,6 @@ This project implements automated testing for the SauceDemo application (https:/
 
 ### Optional Features
 - **Patterns:** Singleton, Factory method 
-- **Test automation approach:** BDD 
-- **Patterns:** Abstract Factory 
-
 
 ## Setup & Execution
 
